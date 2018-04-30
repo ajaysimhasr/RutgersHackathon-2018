@@ -3,5 +3,7 @@ We created an application to list the recipes with search of a keyword of the di
 
 Team Members:
 Ryan Halstater
+
 Chris
+
 Ajay Simha
